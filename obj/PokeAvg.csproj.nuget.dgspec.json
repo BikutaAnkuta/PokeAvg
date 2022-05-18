@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\PokeAvg.csproj": {}
+    "C:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\PokeAvg.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\PokeAvg.csproj": {
+    "C:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\PokeAvg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\PokeAvg.csproj",
+        "projectUniqueName": "C:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\PokeAvg.csproj",
         "projectName": "PokeAvg",
-        "projectPath": "c:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\PokeAvg.csproj",
+        "projectPath": "C:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\PokeAvg.csproj",
         "packagesPath": "C:\\Users\\jjaco\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\jjaco\\Desktop\\PokeAvg - With Extra Credit - With UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
