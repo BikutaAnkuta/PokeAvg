@@ -132,7 +132,7 @@ class Program{
         int totalWeight = 0;
         for(int i = 0; i < listOfPokemon.Count; i++)
         {
-            totalHeight += listOfPokemon[i].weight;
+            totalWeight += listOfPokemon[i].weight;
         }
 
         Console.WriteLine($"\n\nTotal average height of these Pokemon is: {CalculateAverage(totalHeight, limit)}.\nTotal average weight of these Pokemon is: {CalculateAverage(totalWeight, limit)}.");
